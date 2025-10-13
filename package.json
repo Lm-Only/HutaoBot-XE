@@ -1,0 +1,25 @@
+{
+  "name": "hutaobot-xe",
+  "version": "10.0.0",
+  "description": "Hutao Bot X.Edition",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lm-Only/HutaoBot-XE.git"
+  },
+  "keywords": [
+    "hutao",
+    "whatsapp-bot",
+    "nodejs"
+  ],
+  "author": "Lm Only",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lm-Only/HutaoBot-XE/issues"
+  },
+  "homepage": "https://github.com/Lm-Only/HutaoBot-XE#readme",
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
