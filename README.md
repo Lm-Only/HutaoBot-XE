@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 Bot em desenvolvimento
 
  ✍️ O bot atualmente está em fase de desenvolvimento, testes e reescrita do código para ESM. São vários dias de trabalho para oferecer o melhor do projeto.
-Em 18 de outubro as principais partes do bot concluídas foram:
+Em 18 de outubro as principais partes concluídas do bot foram:
  
 - **Conexão**: ✅️
 - **Instalação de módulos**: ✅️
