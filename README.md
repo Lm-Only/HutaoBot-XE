@@ -33,7 +33,7 @@ Em 18 de outubro as principais partes do bot concluídas foram:
 | 🌌 Anti status mencionar         | Anti menção de status em grupos
 | 💡 Comandos sem prefixo         | Comando apenas por letras
 | 💎 IA personalizável          | Você pode personalizar a IA para se comportar do jeito que você quiser. Além disso pode guardar dados de conversas temporário.
-| 💖 Mensagem personalizada        | Você pode personalizar a aparência de mensagens do bor do jeito que quiser.
+| 💖 Mensagem personalizada        | Você pode personalizar a aparência de mensagens do bot do jeito que quiser.
 | 👨🏻‍💻 Códigos abertos         | Partes de códigos estarão disponíveis.
 | 🧞‍♂️ Akinator        | GAME: Akinator com sessões individuais para cada membro.
 | 🎙 Auto transcrever        | Transmissão automática de áudios enviados em um grupo.
