@@ -54,7 +54,7 @@ Atualmente a versão V9.5 ainda será mantida com otimizações (ou seja versão
 # 💸 Preços a serem emitidos!
 
 > [!CAUTION]
-> 💎 Mesmo com essas funcionalidades, o projeto não será o mesmo da HutaoBot-MD V9.5, onde você só precisava atualizar com "npm start up". Será um projeto totalmente diferente, não será possível adaptar o bot manualmente com o antigo.
+> 💎 Mesmo com tudo isso, o projeto não será o mesmo da HutaoBot-MD V9.5, onde você só precisava atualizar com "npm start up". Será um projeto totalmente diferente, não será possível adaptar o bot manualmente com o antigo.
 > 
 > ✨️ Em resumo, com todas essas funcionalidades e outras que não foram mencionadas, podem gerar **custos acima do valor atual**, são funções mais avançadas que dão outras possibilidades no mundo dos bots.
 
