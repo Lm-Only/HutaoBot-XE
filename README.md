@@ -49,7 +49,7 @@ Em 18 de outubro as principais partes concluídas do bot foram:
 - **Armazenamento**: acima de 500Mb
 - **Motivo**: A HutaoBot deixa de mão a otimização para entrar em fase de alto consumo e verificações pesadas. 
 
-Atualmente a versão V9.5 ainda será mantida com otimizações (ou seja versão lite) e algumas correções leves. A versão ainda será vendida juntamente com a V10.0.0
+Atualmente a versão V9.5 ainda será mantida com otimizações  e algumas correções leves (ou seja versão lite). A versão ainda será vendida juntamente com a V10.0.0
 
 # 💸 Preços a serem emitidos!
 
