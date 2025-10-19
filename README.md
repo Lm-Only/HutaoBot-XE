@@ -47,7 +47,7 @@ Em 18 de outubro as principais partes do bot concluídas foram:
 - **CPU**: acima de 50%
 - **Memória RAM**: acima de 500Mb
 - **Armazenamento**: acima de 500Mb
-- **Motivo**: A HutaoBot deixa de mão a otimização para entrar em fase de alto consumo e verificações pedadas. 
+- **Motivo**: A HutaoBot deixa de mão a otimização para entrar em fase de alto consumo e verificações pesadas. 
 
 Atualmente a versão V9.5 ainda será mantida com otimizações (ou seja versão lite) e algumas correções leves. A versão ainda será vendida juntamente com a V10.0.0
 
